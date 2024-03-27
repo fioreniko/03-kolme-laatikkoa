@@ -1,0 +1,69 @@
+html {
+    font-size: 62.5%;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 1rem;
+}
+section{
+    background-color: #BBDDEE;
+    margin-block-end: 1rem;
+    padding: 1rem;
+}
+.iso{
+    float: left;
+    font-size: 500%;
+    width: 5rem;
+    text-align: center;
+    padding: 0.2rem;
+    background-color: #568;
+    color: white;
+    border: solid white 1px;
+    border-width: 0 1rem 1rem 0;
+    margin: -1rem 2rem 2rem -1rem;
+}
+.reunaviiva {
+    border: black solid 1px;
+}
+h1, 
+h2, 
+h3, 
+p, 
+pre, 
+ul {
+    margin-block-end: 1rem;
+}
+h1 {
+    font-size: 1.6rem;
+}
+h2 {
+    font-size: 1.6rem;
+}
+h3 {
+    font-size: 1.6rem;
+}
+p {
+    font-size: 1.6rem;
+}
+pre {
+    font-size: 1.6rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+ul {
+    font-size: 1.6rem;
+}
+.banner {
+
+}
+figure {
+  float: left;
+  width: 100px;
+  height: 70px;
+  text-align: center;
+  background: white;
+  color: black;
+  border: solid 1px;
+  border-width: 0 1px 1xp 0;
+  padding: 0 10px 5px o;
+  margin: -1px 25px 10px -1px;  
+}
